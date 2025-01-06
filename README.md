@@ -51,3 +51,6 @@ Contribuições são bem-vindas! Envie um pull request com suas melhorias.
 
  - yt_dlp para a biblioteca de download de vídeos.
  - tkinter para a interface gráfica.
+
+
+![imagem do programa](logo.mp4)
