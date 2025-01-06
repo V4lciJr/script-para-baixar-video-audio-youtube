@@ -53,4 +53,5 @@ Contribuições são bem-vindas! Envie um pull request com suas melhorias.
  - tkinter para a interface gráfica.
 
 
-![imagem do programa](./logo.mp4)
+https://github.com/user-attachments/assets/99a4b974-7f41-45a1-8929-1fe7d85cd449
+
