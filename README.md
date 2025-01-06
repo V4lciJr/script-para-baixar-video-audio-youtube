@@ -53,4 +53,4 @@ Contribuições são bem-vindas! Envie um pull request com suas melhorias.
  - tkinter para a interface gráfica.
 
 
-![imagem do programa](logo.mp4)
+![imagem do programa](./logo.mp4)
